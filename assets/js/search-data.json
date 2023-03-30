@@ -5,8 +5,6 @@
   
 
   
-
-  
   
 
   
@@ -26,7 +24,7 @@
   
 
   
-      "page9": {
+      "page8": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://causal-machine-learning.github.io/kdd2023-workshop/robots.txt",
