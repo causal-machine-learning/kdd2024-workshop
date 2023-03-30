@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="twitter:card" content="summary_large_image" /><!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>KDD 2023 Workshop - Causal Inference and Machine Learning in Practice | KDD 2023 Workshop - Causal Inference and Machine Learning in Practice</title>
+<meta name="generator" content="Jekyll v4.1.1" />
+<meta property="og:title" content="KDD 2023 Workshop - Causal Inference and Machine Learning in Practice" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="KDD 2023 Workshop - Causal Inference and Machine Learning in Practice" />
+<meta property="og:description" content="KDD 2023 Workshop - Causal Inference and Machine Learning in Practice" />
+<link rel="canonical" href="https://causal-machine-learning.github.io/kdd2023-workshop/" />
+<meta property="og:url" content="https://causal-machine-learning.github.io/kdd2023-workshop/" />
+<meta property="og:site_name" content="KDD 2023 Workshop - Causal Inference and Machine Learning in Practice" />
+<meta property="og:image" content="https://causal-machine-learning.github.io/kdd2023-workshop/images/logo.png" />
+<script type="application/ld+json">
+{"url":"https://causal-machine-learning.github.io/kdd2023-workshop/","@type":"WebSite","image":"https://causal-machine-learning.github.io/kdd2023-workshop/images/logo.png","headline":"KDD 2023 Workshop - Causal Inference and Machine Learning in Practice","name":"KDD 2023 Workshop - Causal Inference and Machine Learning in Practice","description":"KDD 2023 Workshop - Causal Inference and Machine Learning in Practice","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/kdd2023-workshop/assets/css/style.css"><link type="application/atom+xml" rel="alternate" href="https://causal-machine-learning.github.io/kdd2023-workshop/feed.xml" title="KDD 2023 Workshop - Causal Inference and Machine Learning in Practice" /><link rel="shortcut icon" type="image/x-icon" href="/kdd2023-workshop/images/favicon.ico"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Primer/15.2.0/primer.css" integrity="sha512-xTz2ys4coGAOz8vuV1NcQBkgVmKhsSEtjbqyMJbBHRplFuvKIUo6xhLHpAyPt9mfR6twHJgn9OgVLuqOvjeBhg==" crossorigin="anonymous" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha512-1PKOgIY59xJ8Co8+NE6FZ+LOAZKjy+KY8iq0G4B3CyeY6wYHN3yt9PW0XpSriVlkMXe40PTKnXrLnZ9+fkDaog==" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/katex.min.css" integrity="sha512-h7nl+xz8wgDlNM4NqKEM4F1NkIRS17M9+uJwIGwuo8vGqIl4BhuCKdxjWEINm+xyrUjNCnK5dCrhM0sj+wTIXw==" crossorigin="anonymous" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/katex.min.js" integrity="sha512-/CMIhXiDA3m2c9kzRyd97MTb3MC6OVnx4TElQ7fkkoRghwDf6gi41gaT1PwF270W6+J60uTmwgeRpNpJdRV6sg==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/contrib/auto-render.min.js" integrity="sha512-Do7uJAaHZm5OLrIv/yN4w0iG1dbu01kzdMNnFfu/mAqgUk6Nniv2JYHcwH+cNwjqgLcqcuBBk+JRvprLVI8azg==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js" integrity="sha512-0doc9hKxR3PYwso42RD1p5ySZpzzuDiOwMrdCEh2WdJZCjcmFKc/wEnL+z8fBQrnHoiNWbo+3fiGkOYXBdQp4A==" crossorigin="anonymous"></script>
+    <script>
+    document.addEventListener("DOMContentLoaded", function() {
+        renderMathInElement( document.body, {
+        delimiters: [
+            {left: "$$", right: "$$", display: true},
+            {left: "[%", right: "%]", display: true},
+            {left: "$", right: "$", display: false}
+        ]}
+        );
+    });
+    </script>
+
+
+<script>
+function wrap_img(fn) {
+    if (document.attachEvent ? document.readyState === "complete" : document.readyState !== "loading") {
+        var elements = document.querySelectorAll(".post img");
+        Array.prototype.forEach.call(elements, function(el, i) {
+            if (el.getAttribute("title") && (el.className != "emoji")) {
+                const caption = document.createElement('figcaption');
+                var node = document.createTextNode(el.getAttribute("title"));
+                caption.appendChild(node);
+                const wrapper = document.createElement('figure');
+                wrapper.className = 'image';
+                el.parentNode.insertBefore(wrapper, el);
+                el.parentNode.removeChild(el);
+                wrapper.appendChild(el);
+                wrapper.appendChild(caption);
+            }
+        });
+    } else { document.addEventListener('DOMContentLoaded', fn); }
+}
+window.onload = wrap_img;
+</script>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function(){
+    // add link icon to anchor tags
+    var elem = document.querySelectorAll(".anchor-link")
+    elem.forEach(e => (e.innerHTML = '<i class="fas fa-link fa-xs"></i>'));
+    });
+</script>
+</head>
+<body><header class="site-header">
+
+  <div class="wrapper"><a class="site-title" rel="author" href="/kdd2023-workshop/">KDD 2023 Workshop - Causal Inference and Machine Learning in Practice</a><nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+        </label>
+
+        <div class="trigger"><a class="page-link" href="/kdd2023-workshop/search/">Search</a><a class="page-link" href="/kdd2023-workshop/categories/">Tags</a></div>
+      </nav></div>
+</header>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <div class="home"><h1 id="causal-inference-and-machine-learning-in-practice-use-cases-for-product-brand-policy-and-beyond"><strong>Causal Inference and Machine Learning in Practice</strong>: Use cases for Product, Brand, Policy and Beyond</h1>
+
+<h2 id="schedule"><strong>Schedule</strong></h2>
+
+<ul>
+  <li>Long Beach Convention &amp; Entertainment Center, 300 E Ocean Blvd, Long Beach, CA 90802 (<a href="https://goo.gl/maps/1N3XGEovGgJqXAV98">Google
+Map</a>)</li>
+  <li>9:00 AM - 1:00 PM August 7, 2023 [PDT]</li>
+</ul>
+
+<h2 id="abstract"><strong>Abstract</strong></h2>
+
+<p>In recent years, both academic research and industry applications see an increased effort in using machine learning
+methods to measure granular causal effects and design optimal policies based on these causal estimates. Open source
+packages such as <a href="https://github.com/uber/causalml">CausalML</a> and <a href="https://github.com/microsoft/econml">EconML</a> provide
+a unified interface for applied researchers and industry practitioners with a variety of machine learning methods for
+causal inference. The tutorial will cover the topics including conditional treatment effect estimators by meta-learners
+and tree-based algorithms, model validations and sensitivity analysis, optimization algorithms including policy leaner
+and cost optimization. In addition, the tutorial will demonstrate the production of these algorithms in industry use
+cases.</p>
+
+<h2 id="target-audience-for-the-workshop"><strong>Target Audience for the Workshop</strong></h2>
+
+<p>Anyone who is interested in causal inference and machine learning, especially economists/statisticians/data scientists
+who want to learn how to combine causal inference and machine learning with real industry use cases incorporated in
+large scaled machine learning systems at companies such as Microsoft, TripAdvisor and Uber.
+The tutorial assumes some basic knowledge in statistical methods, machine learning algorithms and the Python programming
+language.</p>
+
+<h2 id="important-dates"><strong>Important Dates</strong></h2>
+
+<ul>
+  <li>May 23, 2023 [AoE]: Workshop paper submission deadline</li>
+  <li>June 23, 2023: Paper decision notifications</li>
+  <li>August 7, 2023: Workshop</li>
+</ul>
+
+<h2 id="outline"><strong>Outline</strong></h2>
+
+<table>
+  <thead>
+    <tr>
+      <th><strong>Title</strong></th>
+      <th><strong>Duration</strong></th>
+      <th>Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Introduction</td>
+      <td>10 minutes</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Invited Talk #1 by Yoda</td>
+      <td>20 minutes</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Invited Talk #2 by Darth Vader</td>
+      <td>20 minutes</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Paper #1</td>
+      <td>15 minutes</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Paper #2</td>
+      <td>15 minutes</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Paper #3</td>
+      <td>15 minutes</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Paper #4</td>
+      <td>15 minutes</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Break &amp; Poster Session</td>
+      <td>30 minutes</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Invited Talk #3 by Luke Skywalker</td>
+      <td>20 minutes</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Invited Talk #4 by Princess Leia</td>
+      <td>20 minutes</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Paper #1</td>
+      <td>15 minutes</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Paper #2</td>
+      <td>15 minutes</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Paper #3</td>
+      <td>15 minutes</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Paper #4</td>
+      <td>15 minutes</td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="invited-speakers"><strong>Invited Speakers</strong></h2>
+
+<h3 id="yoda-amazon">Yoda, Amazon</h3>
+
+<p>We will give an overview of basic concepts in causal inference. A quick refresher on the main tools and terminology of
+causal inference: correlation vs causation, average, conditional, and individual treatment effects, causal inference via
+randomization, Causal inference using instrumental variables, Causal inference via unconfoundedness.</p>
+
+<h3 id="darth-vader-university-of-darth-star">Darth Vader, University of Darth Star</h3>
+
+<p>We will provide an overview of CausalML, an open source Python package that provides a suite of uplift modeling and
+causal inference methods using machine learning algorithms based on recent research. We will introduce the main
+components of CausalML: (1) inference with causal machine learning algorithms (e.g. meta-learners, uplift trees, CEVAE,
+dragonnet), (2) validation/analysis methods (e.g. synthetic data generation, AUUC, sensitivity analysis,
+interpretability), (3) optimization methods (e.g. policy optimization, value optimization, unit selection).</p>
+
+<h3 id="luke-skywalker-stanford-university">Luke Skywalker, Stanford University</h3>
+
+<p>As an introductory case study for using causal inference, we will cover the use case of understanding the causal impact
+from observational data in the context of cross sell at Uber. We emphasize that simple comparisons of users who make
+cross purchase or not will produce biased estimates and that can be demonstrated in the causal inference framework. We
+show the use of different causal estimation methodologies through propensity score matching and meta learners to
+estimate the causal impact. In addition, we will use sensitivity analysis to show the robustness of the estimates.</p>
+
+<h3 id="princess-leia-microsoft-research">Princess Leia, Microsoft Research</h3>
+
+<p>We will introduce the audience selection method with uplift modeling in online RTB, which aims to estimate heterogeneous
+treatment effects for advertising. It has been studied to provide a superior return on investment by selecting the most
+incremental users for a specific campaign. To examine the effectiveness of uplift modeling in the context of real-time
+bidding, we conducted the comparative analysis of four different meta-learners on real campaign data. We adapted an
+explore-exploit set up for offline training and online evaluation. We will also introduce how we use Targeted Maximum
+Likelihood Estimation (TMLE) based Average Treatment Effect (ATE) as ground truth for evaluation.</p>
+
+<h2 id="accepted-papers"><strong>Accepted Papers</strong></h2>
+
+<p>To be updated</p>
+
+<h2 id="organizers"><strong>Organizers</strong></h2>
+
+<ul>
+  <li>Chu Wang, Amazon</li>
+  <li>Yingfei Wang, University of Washington</li>
+  <li>Xinwei Ma, UC San Diego</li>
+  <li><a href="mailto:zyzheng@berkeley.edu">Zeyu Zheng</a>, UC Berkeley, Amazon - main contact</li>
+</ul>
+
+<h3 id="causalml-team">CausalML Team</h3>
+
+<ul>
+  <li>Jing Pan, Snap, CausalML</li>
+  <li>Yifeng Wu, Uber, CausalML</li>
+  <li>Huigang Chen, Meta, CausalML</li>
+  <li>Totte Harinen, AirBnB, CausalML</li>
+  <li>Paul Lo, Snap, CausalML</li>
+  <li><a href="mailto:jeong@uber.com">Jeong-Yoon Lee</a>, Uber, CausalML - main contact</li>
+  <li>Zhenyu Zhao, Tencent, CausalML</li>
+</ul>
+
+<h3 id="econml-team">EconML Team</h3>
+
+<ul>
+  <li>Fabio Vera, Microsoft Research, EconML</li>
+  <li>Eleanor Dillon, Microsoft Research, EconML</li>
+  <li>Keith Battocchi, Microsoft Research, EconML</li>
+</ul>
+
+
+
+  
+
+  <!-- Hide posts if front matter flag hide:true -->
+  
+  
+
+  <!-- Sort posts by rank, then date -->
+  
+  
+  
+
+ 
+  
+
+   <!-- Assemble final sorted posts array -->
+  
+  </div>
+      </div>
+    </main><footer class="site-footer h-card">
+  <data class="u-url" href="/kdd2023-workshop/"></data>
+
+  <div class="wrapper">
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col">
+        <p class="feed-subscribe">
+          <a href="/kdd2023-workshop/feed.xml">
+            <svg class="svg-icon orange">
+              <use xlink:href="/kdd2023-workshop/assets/minima-social-icons.svg#rss"></use>
+            </svg><span>Subscribe</span>
+          </a>
+        </p>
+      </div>
+      <div class="footer-col">
+        <p>KDD 2023 Workshop - Causal Inference and Machine Learning in Practice</p>
+      </div>
+    </div>
+
+    <div class="social-links"><ul class="social-media-list"></ul>
+</div>
+
+  </div>
+
+</footer>
+</body>
+
+</html>
