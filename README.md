@@ -75,17 +75,7 @@ interpretability), (3) optimization methods (e.g. policy optimization, value opt
 
 ### Ang Li, University of California, Los Angeles
 
-The unit selection problem aims to identify a set of individuals who are most likely to
-exhibit a desired mode of behavior, which is defined in counterfactual terms. A typical
-example is that of selecting individuals who would respond one way if encouraged and a
-different way if not encouraged. Unlike previous works on this problem, which rely on ad-hoc
-heuristics, we approach this problem formally, using counterfactual logic, to properly capture
-the nature of the desired behavior. This formalism enables us to derive an informative
-selection criterion which integrates experimental and observational data. We show that a
-more accurate selection criterion can be achieved when structural information is available
-in the form of a causal diagram. We further discuss data availability issue regarding the
-derivation of the selection criterion without the observational or experimental data. We
-demonstrate the superiority of this criterion over A/B-test-based approaches.
+The unit selection problem involves identifying a group of individuals who are most likely to exhibit a desired mode of counterfactual behavior or evaluating the percentage of such individuals within a group or population. For example, when implementing a new vaccine program for a virus, the objective is to identify a set of individuals (or their characteristics) that maximizes the number of individuals who would be infected by the virus if unvaccinated but would not if vaccinated. Rather than relying on A/B test heuristics like previous works on this problem, we took a formal approach using counterfactual logic to properly capture the nature of the desired behavior. By categorizing individuals based on their behavior, we identified four response types: complier, always-taker, never-taker, and defier. Using experimental and observational data, we derived tight bounds on the objective function (benefit function), which is the weighted average payoff of the four response types associated with selecting an individual with specific characteristics. We proved that A/B test heuristics are generally problematic and are trivial cases of the benefit function. The benefit function conceptually differs from A/B test heuristics in that it considers four counterfactually-defined response types, while the latter evaluates treatment effects. Our recent research has also demonstrated that the benefit function can serve as the next generation of loss function - a causal loss function. We applied machine learning models to identify subpopulations that maximize the benefit function.
 
 ### Vasilis Syrgkanis, Stanford University/EconML
 
