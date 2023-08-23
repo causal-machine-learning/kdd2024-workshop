@@ -15,7 +15,7 @@ All deadlines are at 11:59 PM [AoE](https://www.timeanddate.com/time/zones/aoe).
 * ~~June 9th, 2023 **June 16th, 2023**: Workshop paper submission deadline **(extended)**~~
 * ~~July 10th, 2023: Paper decision notifications~~
 * ~~July 24th, 2023: Camera-ready deadline~~
-* August 7th, 2023: Workshop
+* ~~August 7th, 2023: Workshop~~
 
 ## **Submission Link**
 
