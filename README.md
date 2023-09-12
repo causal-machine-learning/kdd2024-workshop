@@ -165,9 +165,8 @@ received his Ph.D. in Computer Science from Cornell University.
 8. Community Detection-Enhanced Causal Structural Learning, Yuhe Gao (North Carolina State University)*; Hengrui Cai (University of California Irvine); Sheng Zhang (North Carolina State University); Rui Song (North Carolina State University)
 9. ACE: Active Learning for Causal Inference with Expensive Experiments, Difan Song (Georgia Institute of Technology)*; Simon Mak (Duke University); C.F. Jeff Wu (Georgia Institute of Technology)
 10. Extracting Causal Insights from Microsoft Feedback Hub using LLMs and In-context Learning, Sara Abdali (University of California, Riverside )*; Anjali Parikh (Microsoft); Steve Lim (Microsoft)
-11. Evaluate the Impact of Similar Products Ad Group Recommendations with Causal Inference, Jamie Chen (Amazon)*; Zuqi Shang (AmaOn); Raif Rustamov (Amazon)
-12. Machine Learning based Framework for Robust Price-Sensitivity Estimation with Application to Airline Pricing, Shahin Boluki (Pros Inc)*; Ravi Kumar (PROS)
-13. OpportunityFinder: A Framework for Automated Causal Inference, Huy Nguyen (Amazon)*; Prince Grover (Amazon); Devashish Khatwani (Amazon)
+11. Machine Learning based Framework for Robust Price-Sensitivity Estimation with Application to Airline Pricing, Shahin Boluki (Pros Inc)*; Ravi Kumar (PROS)
+12. OpportunityFinder: A Framework for Automated Causal Inference, Huy Nguyen (Amazon)*; Prince Grover (Amazon); Devashish Khatwani (Amazon)
 
 
 ## **Organizers**
