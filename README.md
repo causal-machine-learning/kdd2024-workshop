@@ -162,12 +162,10 @@ received his Ph.D. in Computer Science from Cornell University.
 7. Hierarchical Clustering As a Novel Solution to the Notorious Multicollinearity Problem in Observational Causal Inference, Yufei Wu (Airbnb)*; Zhiying Gu (Airbnb); Alex Deng (Airbnb); Jacob Zhu (Airbnb)
 
 ### For Poster Presentation
-8. Community Detection-Enhanced Causal Structural Learning, Yuhe Gao (North Carolina State University)*; Hengrui Cai (University of California Irvine); Sheng Zhang (North Carolina State University); Rui Song (North Carolina State University)
-9. ACE: Active Learning for Causal Inference with Expensive Experiments, Difan Song (Georgia Institute of Technology)*; Simon Mak (Duke University); C.F. Jeff Wu (Georgia Institute of Technology)
-10. Extracting Causal Insights from Microsoft Feedback Hub using LLMs and In-context Learning, Sara Abdali (University of California, Riverside )*; Anjali Parikh (Microsoft); Steve Lim (Microsoft)
-11. Machine Learning based Framework for Robust Price-Sensitivity Estimation with Application to Airline Pricing, Shahin Boluki (Pros Inc)*; Ravi Kumar (PROS)
-12. OpportunityFinder: A Framework for Automated Causal Inference, Huy Nguyen (Amazon)*; Prince Grover (Amazon); Devashish Khatwani (Amazon)
-
+8. Community Detection-Enhanced Causal Structural Learning, Yuhe Gao (North Carolina State University)*; Hengrui Cai (University of California Irvine); Sheng Zhang (North Carolina State University); Rui Song (North Carolina State University); [Poster](https://drive.google.com/file/d/1dC_WLUhOJletn-kDJd1GPUJDyHwpMblG/view?usp=drive_link), [Paper](https://drive.google.com/file/d/11vnSFYDQZ1ZjztaM_eW7J9jd5tKH7y6Y/view?usp=drive_link)
+9. ACE: Active Learning for Causal Inference with Expensive Experiments, Difan Song (Georgia Institute of Technology)*; Simon Mak (Duke University); C.F. Jeff Wu (Georgia Institute of Technology); [Paper](https://drive.google.com/file/d/1-fCLcT4RYAHJlsSBUuuAwsuqHDf9B4Qt/view?usp=drive_link)
+10. Machine Learning based Framework for Robust Price-Sensitivity Estimation with Application to Airline Pricing, Shahin Boluki (Pros Inc)*; Ravi Kumar (PROS); [Poster](https://drive.google.com/file/d/1AcRtI5NtovYWMEOLnQ7dE_IRgyHVukqf/view?usp=drive_link), [Paper](https://drive.google.com/file/d/1n5mL1quGS5jWVZXXqUrL349CJH-I2BOW/view?usp=drive_link)
+11. OpportunityFinder: A Framework for Automated Causal Inference, Huy Nguyen (Amazon)*; Prince Grover (Amazon); Devashish Khatwani (Amazon); [Poster](https://drive.google.com/file/d/1MH_vV5MDafqAOVLnQRIgmG1IFGXZx05r/view?usp=drive_link), [Paper](https://drive.google.com/file/d/1_yAoohM0jG0uPi7om9_6igVQJI1JM-Ce/view?usp=drive_link)
 
 ## **Organizers**
 
