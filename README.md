@@ -50,9 +50,17 @@ submission guidelines.
 | **Introduction** | Organizers |  | |
 | **Invited Talk:** |  |  | |
 | **Invited Talk:** |  |  | |
+| Paper #1 | | 15 minutes | |
+| Paper #2 | | 15 minutes | |
+| Paper #3 | | 15 minutes | |
+| Paper #4 | | 15 minutes | |
 | **Break & Poster Session** | |  | |
 | **Invited Talk:** |  |  | |
 | **Invited Talk:** |  |  | |
+| Paper #1 | | 15 minutes | |
+| Paper #2 | | 15 minutes | |
+| Paper #3 | | 15 minutes | |
+| Paper #4 | | 15 minutes | |
 
 
 ## **Invited Speakers**
