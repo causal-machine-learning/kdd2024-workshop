@@ -50,16 +50,10 @@ submission guidelines.
 | **Introduction** | Organizers |  | |
 | **Invited Talk:** |  |  | |
 | **Invited Talk:** |  |  | |
-|  |  |  | |
-|  |  |  | |
-|  |  |  | |
-|  |  |  | |
 | **Break & Poster Session** | |  | |
 | **Invited Talk:** |  |  | |
 | **Invited Talk:** |  |  | |
-|  |  |  | |
-|  |  |  | |
-|  |  |  | |
+
 
 ## **Invited Speakers**
 
