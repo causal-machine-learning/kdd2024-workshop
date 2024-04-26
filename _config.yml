@@ -6,11 +6,11 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: KDD 2023 Workshop - Causal Inference and Machine Learning in Practice
-description: KDD 2023 Workshop - Causal Inference and Machine Learning in Practice
+title: KDD 2024 Workshop - Causal Inference and Machine Learning in Practice
+description: KDD 2024 Workshop - Causal Inference and Machine Learning in Practice
 github_username: causal-machine-learning
 # you can comment the below line out if your repo name is not different than your baseurl
-github_repo: "kdd2023-workshop"
+github_repo: "kdd2024-workshop"
 
 # OPTIONAL: override baseurl and url if using a custom domain
 # Note: leave out the trailing / from this value. 
@@ -34,7 +34,7 @@ url: "https://causal-machine-learning.github.io" # the base hostname & protocol 
 #
 # 3. You must replace the parameter `baseurl` in _action_files/settings.ini with the same value as you set here but WITHOUT QUOTES.
 #
-baseurl: "/kdd2023-workshop" # the subpath of your site, e.g. "/blog".
+baseurl: "/kdd2024-workshop" # the subpath of your site, e.g. "/blog".
 
 # Github and twitter are optional:
 minima:
