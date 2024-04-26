@@ -10,12 +10,12 @@ search_exclude: true
 ## **Important Dates**
 
 All deadlines are at 11:59 PM [AoE](https://www.timeanddate.com/time/zones/aoe).
-* April 30th, 2024: CMT submission portal opens
+* April 26th, 2024: CMT submission portal opens
 * May 28th, 2024: Abstract submission deadline
 * June 28th, 2024: Workshop paper submission deadline
 * July 11th, 2024: Paper decision notifications
 * July 24th, 2024: Camera-ready deadline
-* August 25th, 2024: Workshop
+* August 26th, 2024: Workshop
 
 ## **Submission Link**
 
@@ -49,7 +49,7 @@ template (two-column format).
 `\documentclass[sigconf, review]{acmart}`.
 * Additional supplemental material focused on reproducibility can be provided. Proofs, pseudo-code, and code may also be
 included in the supplement, which has no explicit page limit.
-* The supplementary material should be included in the same pdf file as the main manuscript. The main body of the paper
+* The supplementary material should be included in the same PDF file as the main manuscript. The main body of the paper
 should be self-contained since reviewers are not required to read the supplementary material. The supplementary material
 will not be included in the proceedings.
 * Submissions violating these formatting requirements will be desk-rejected.
