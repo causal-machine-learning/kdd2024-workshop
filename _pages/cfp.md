@@ -10,8 +10,8 @@ search_exclude: true
 ## **Important Dates**
 
 All deadlines are at 11:59 PM [AoE](https://www.timeanddate.com/time/zones/aoe).
-* April 26th, 2024: CMT submission portal opens
-* May 28th, 2024: Abstract submission deadline
+* ~~April 26th, 2024: CMT submission portal opens~~
+* ~~May 28th, 2024: Abstract submission deadline~~
 * June 28th, 2024: Workshop paper submission deadline
 * July 11th, 2024: Paper decision notifications
 * July 24th, 2024: Camera-ready deadline
