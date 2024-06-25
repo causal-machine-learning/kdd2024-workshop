@@ -15,8 +15,8 @@ image: images/logo.png
 ## **Schedule**
 
 * Barcelona, Spain
-* Date: TBD (Sunday 25 August 2024 – Thursday 29 August 2024)
-* Time: TBD
+* Date: Monday, August 26 2024
+* Time: 9:00 AM - 1:00 PM
 
 ## **Abstract**
 
