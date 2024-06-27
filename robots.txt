@@ -1,1 +1,1 @@
-Sitemap: https://causal-machine-learning.github.io/kdd2023-workshop/sitemap.xml
+Sitemap: https://causal-machine-learning.github.io/kdd2024-workshop/sitemap.xml

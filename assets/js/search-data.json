@@ -31,7 +31,7 @@
       "page10": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
-          "url": "https://causal-machine-learning.github.io/kdd2023-workshop/robots.txt",
+          "url": "https://causal-machine-learning.github.io/kdd2024-workshop/robots.txt",
           "relUrl": "/robots.txt",
           "date": ""
       }
