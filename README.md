@@ -49,15 +49,15 @@ submission guidelines.
 |-----------|-------------|--------------|------|
 | **Introduction** | Roland Stevenson | 9:00-9:10am (10m) | |
 | **Invited Talk #1** | [Dmitry Arkangelsky](#dmitry-arkangelsky-demfi) | 9:10-9:30am (20m) | |
-| From Causality to Incrementality: Estimating Marketplace Inter-product Cannibalisation Effects at Expedia Group | Florian Florian*, Catriona Mitchison (Expedia) | 9:30-9:50am (20m) | |
-| DISCO: constrained bandits for personalized discount allocation within fashion e-commerce | Jason Zhang (TripAdvisor), Benjamin M Howson (Imperial College London), Panayiota Savva, Eleanor Loh (ASOS)* | 9:50-10:10am (20m) | |
-| Industrial-Grade Smart Troubleshooting through Causal Technical Language Processing: a Proof of Concept | Alexandre Trilla*, Ossee Yiboe, Nenad Mijatovic (Alstom), Jordi Vitria (Universitat de Barcelona)| 10:10-10:30am (20m) | |
+| From Causality to Incrementality: Estimating Marketplace Inter-product Cannibalisation Effects at Expedia Group | Florian Florian*, Catriona Mitchison (Expedia) | 9:30-9:50am (20m) | [Paper](https://drive.google.com/file/d/1vxw99EM4bJ43DDK-o7xQZYrySfoq9aPx/view?usp=drive_link) |
+| DISCO: constrained bandits for personalized discount allocation within fashion e-commerce | Jason Zhang (TripAdvisor), Benjamin M Howson (Imperial College London), Panayiota Savva, Eleanor Loh (ASOS)* | 9:50-10:10am (20m) | [Paper](https://drive.google.com/file/d/1EDkLj7hx-bUZZIlF5UsPDV-5zAQp4AaR/view?usp=drive_link) |
+| Industrial-Grade Smart Troubleshooting through Causal Technical Language Processing: a Proof of Concept | Alexandre Trilla*, Ossee Yiboe, Nenad Mijatovic (Alstom), Jordi Vitria (Universitat de Barcelona)| 10:10-10:30am (20m) | [Paper](https://drive.google.com/file/d/1_DHs64ThFM72qt4vry_Xy7RROwa05aAF/view?usp=drive_link) |
 | **Break & Poster Session** | | 10:30-11:00am (30m) | |
 | **Invited Talk #2** | [Rumen Illiev](#rumen-illiev-toyota-research-institute) | 11:00-11:20am (20m) | |
-| Practical Marketplace Optimization at Uber Using Causally-Informed Machine Learning | Zijun Qin*, Siyu Chen, Jason Dowlatabadi, Yu Xuan Hong, Vinayak Iyer, Uday Mantripragada, Rishabh Narang, Apoorv Pandey, Abrar Sheikh, Jiaqi Sun, Matthew Walker, Kaichen Wei, Chen Xu, Jingnan Yang, Allen Zhang, Guoqing Zhang, Bobby Chen, Hongtao Sun (Uber) | 11:20-11:40am (20m) | |
-| Enhancing Uplift Modeling in Multi-Treatment Marketing Campaigns: Leveraging Score Ranking and Calibration Techniques | Yoon Tae Park*, Ting Xu (Bestbuy) | 11:40-12:00pm (20m) | |
-| Optimization and Control Applications through Repeated Interventions Based on Structural Causal Models | Daigo Fujiwara*, Tomonori Izumitani (NTT), Shohei Shimizu (Shiga University & RIKEN) | 12:00-12:20pm (20m) | |
-| Understanding Product Quality with Unstructured Data: An Application of LLMs and Embeddings at Airbnb | Zhiying Gu*,Jacob Zhu, Brad Li, Linsha Chen (Airbnb) | 12:20-12:40pm (20m) | |
+| Practical Marketplace Optimization at Uber Using Causally-Informed Machine Learning | Zijun Qin*, Siyu Chen, Jason Dowlatabadi, Yu Xuan Hong, Vinayak Iyer, Uday Mantripragada, Rishabh Narang, Apoorv Pandey, Abrar Sheikh, Jiaqi Sun, Matthew Walker, Kaichen Wei, Chen Xu, Jingnan Yang, Allen Zhang, Guoqing Zhang, Bobby Chen, Hongtao Sun (Uber) | 11:20-11:40am (20m) | [Paper](https://drive.google.com/file/d/15d1hyIt6-hu_aTWYBATKFTMaf8s_n4MD/view?usp=drive_link) |
+| Enhancing Uplift Modeling in Multi-Treatment Marketing Campaigns: Leveraging Score Ranking and Calibration Techniques | Yoon Tae Park*, Ting Xu (Bestbuy) | 11:40-12:00pm (20m) | [Paper](https://drive.google.com/file/d/1xlmnUyzeCYFQ7Q3t-Mm4vhlEPs7jJrp3/view?usp=drive_link) |
+| Optimization and Control Applications through Repeated Interventions Based on Structural Causal Models | Daigo Fujiwara*, Tomonori Izumitani (NTT), Shohei Shimizu (Shiga University & RIKEN) | 12:00-12:20pm (20m) | [Paper](https://drive.google.com/file/d/1-M6hMM9jY6UxXS-N-cMToEt9m_kqiFVz/view?usp=drive_link) |
+| Understanding Product Quality with Unstructured Data: An Application of LLMs and Embeddings at Airbnb | Zhiying Gu*, Jacob Zhu, Brad Li, Linsha Chen (Airbnb) | 12:20-12:40pm (20m) | [Paper](https://drive.google.com/file/d/1zG2wcERvST3MeliHYl6E7Qc7tijvVBRc/view?usp=drive_link) |
 | **Closing** | Roland Stevenson | 12:40-12:50pm (10m) | |
 
 ## **Invited Speakers**
@@ -83,17 +83,17 @@ Rumen Iliev is a Staff Research Scientist in the Human-Centered AI division at t
 ## **Accepted Papers**
 
 ### For Oral Presentation
-1. From Causality to Incrementality: Estimating Marketplace Inter-product Cannibalisation Effects at Expedia Group; Florian Florian*, Catriona Mitchison (Expedia)
-2. DISCO: constrained bandits for personalized discount allocation within fashion e-commerce; Jason Zhang (TripAdvisor), Benjamin M Howson (Imperial College London), Panayiota Savva, Eleanor Loh (ASOS)*
-3. Industrial-Grade Smart Troubleshooting through Causal Technical Language Processing: a Proof of Concept; Alexandre Trilla*, Ossee Yiboe, Nenad Mijatovic (Alstom), Jordi Vitria (Universitat de Barcelona)
-4. Practical Marketplace Optimization at Uber Using Causally-Informed Machine Learning; Zijun Qin*, Siyu Chen, Jason Dowlatabadi,Yu Xuan Hong, Vinayak Iyer, Uday Mantripragada, Rishabh Narang, Apoorv Pandey, Abrar Sheikh, Jiaqi Sun, Matthew Walker, Kaichen Wei, Chen Xu, Jingnan Yang, Allen Zhang, Guoqing Zhang, Bobby Chen, Hongtao Sun (Uber)
-5. Enhancing Uplift Modeling in Multi-Treatment Marketing Campaigns: Leveraging Score Ranking and Calibration Techniques; Yoon Tae Park*, Ting Xu (Bestbuy)
-6. Optimization and Control Applications through Repeated Interventions Based on Structural Causal Models; Daigo Fujiwara*, Tomonori Izumitani (NTT), Shohei Shimizu (Shiga University & RIKEN)
-7. Understanding Product Quality with Unstructured Data: An Application of LLMs and Embeddings at Airbnb; Zhiying Gu*,Jacob Zhu, Brad Li, Linsha Chen (Airbnb)
+1. From Causality to Incrementality: Estimating Marketplace Inter-product Cannibalisation Effects at Expedia Group; Florian Florian*, Catriona Mitchison (Expedia); [Paper](https://drive.google.com/file/d/1vxw99EM4bJ43DDK-o7xQZYrySfoq9aPx/view?usp=drive_link)
+2. DISCO: constrained bandits for personalized discount allocation within fashion e-commerce; Jason Zhang (TripAdvisor), Benjamin M Howson (Imperial College London), Panayiota Savva, Eleanor Loh (ASOS)*; [Paper](https://drive.google.com/file/d/1EDkLj7hx-bUZZIlF5UsPDV-5zAQp4AaR/view?usp=drive_link)
+3. Industrial-Grade Smart Troubleshooting through Causal Technical Language Processing: a Proof of Concept; Alexandre Trilla*, Ossee Yiboe, Nenad Mijatovic (Alstom), Jordi Vitria (Universitat de Barcelona); [Paper](https://drive.google.com/file/d/1_DHs64ThFM72qt4vry_Xy7RROwa05aAF/view?usp=drive_link)
+4. Practical Marketplace Optimization at Uber Using Causally-Informed Machine Learning; Zijun Qin*, Siyu Chen, Jason Dowlatabadi,Yu Xuan Hong, Vinayak Iyer, Uday Mantripragada, Rishabh Narang, Apoorv Pandey, Abrar Sheikh, Jiaqi Sun, Matthew Walker, Kaichen Wei, Chen Xu, Jingnan Yang, Allen Zhang, Guoqing Zhang, Bobby Chen, Hongtao Sun (Uber); [Paper](https://drive.google.com/file/d/15d1hyIt6-hu_aTWYBATKFTMaf8s_n4MD/view?usp=drive_link)
+5. Enhancing Uplift Modeling in Multi-Treatment Marketing Campaigns: Leveraging Score Ranking and Calibration Techniques; Yoon Tae Park*, Ting Xu (Bestbuy); [Paper](https://drive.google.com/file/d/1xlmnUyzeCYFQ7Q3t-Mm4vhlEPs7jJrp3/view?usp=drive_link)
+6. Optimization and Control Applications through Repeated Interventions Based on Structural Causal Models; Daigo Fujiwara*, Tomonori Izumitani (NTT), Shohei Shimizu (Shiga University & RIKEN); [Paper](https://drive.google.com/file/d/1-M6hMM9jY6UxXS-N-cMToEt9m_kqiFVz/view?usp=drive_link)
+7. Understanding Product Quality with Unstructured Data: An Application of LLMs and Embeddings at Airbnb; Zhiying Gu*,Jacob Zhu, Brad Li, Linsha Chen (Airbnb); [Paper](https://drive.google.com/file/d/1zG2wcERvST3MeliHYl6E7Qc7tijvVBRc/view?usp=drive_link)
 
 ### For Poster Presentation
-8. Shipping Speed Elasticity Estimation Using Causal Inference Machine Learning Techniques; Aparupa Das Gupta*, Ajinkya More, Weijie Yuan, Ajay Kumar (Walmart)
-9. Understanding guest demand and optimizing two-sided marketplaces: insights from Airbnb; Yufei Wu*, Daniel Schmierer (Airbnb)
+8. Shipping Speed Elasticity Estimation Using Causal Inference Machine Learning Techniques; Aparupa Das Gupta*, Ajinkya More, Weijie Yuan, Ajay Kumar (Walmart); [Paper](https://drive.google.com/file/d/1aU2eZ9w1rK_g_N__QgjL47_opCrvyrQa/view?usp=drive_link)
+9. Understanding guest demand and optimizing two-sided marketplaces: insights from Airbnb; Yufei Wu*, Daniel Schmierer (Airbnb); [Paper](https://drive.google.com/file/d/12oAZAeRymbKyI2LXrEhX5Y1eGnrULzI0/view?usp=drive_link)
 10. Causally Informed LMs for Explaining Sets of Counterfactual Examples to Final Users; Arturo Fredes*, Jordi Vitria (Universitat de Barcelona)
 11. CHEF: Causal Effect Estimation under Hidden Confounding Using an End-to-End Framework with Data Fusion; Chuan Zhou (Peking University)*, Yaxuan Li (Harbin Institute of Technology), Chunyuan Zheng (UCSD), Haiteng Zhang (University of Chinese Academic of Sciences), Haoxuan Li (Peking University), Mingming Gong (University of Melbourne)
 
