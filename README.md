@@ -115,7 +115,7 @@ uocheng Guo is a senior machine learning researcher at ByteDance Research, Londo
 * [Roland Stevenson](mailto: rolandrmgservices@gmail.com), Consultant - main contact for the day of the workshop
 * Totte Harinen, AirBnB
 * Yifeng Wu, Uber
-* Zhenyu Zhao, Tencent
+* Zhenyu Zhao, Roblox
 
 ## **Past Workshop**
 * [1st Workshop on Causal Inference and Machine Learning in Practice](https://causal-machine-learning.github.io/kdd2023-workshop/), KDD 2023, Long Beach, CA, USA
