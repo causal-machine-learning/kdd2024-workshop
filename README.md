@@ -81,6 +81,9 @@ Ruocheng Guo is a senior machine learning researcher at ByteDance Research, Lond
 #### Title
 
 #### Abstract
+Point estimate is often not enough for decision-making. With conformal prediction, predictive intervals can be inferred in a distribution-free fashion. In contrast to traditional methods that rely on strong assumptions on the data distribution.
+For conformal counterfactual inference, existing methods that construct confidence intervals for counterfactuals either rely on strong ignorability, or access to un-identifiable bounds calibrating the difference between observational and interventional data. To overcome these limitations, we propose a novel approach to provide predictive intervals for counterfactual outcomes with marginal coverage guarantees, even under hidden confounding. With less restrictive assumptions, our approach uses a fraction of interventional data to account for the covariate shift from observational to interventional data. Theoretical results demonstrate the conditions under which our method is strictly advantageous to the naive method that only uses interventional data. Experiments across synthetic and real-world data verifies the superiority of our methods compared with state-of-the-art baselines.
+In addition, we developed novel conformal prediction methods for recommendation systems: the first inference-time stochastic ranking method for fairness utility trade-off and a novel method for fine-tuning pre-trained sequential recommenders.
 
 ## **Accepted Papers**
 
