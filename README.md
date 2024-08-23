@@ -109,6 +109,7 @@ In addition, we developed novel conformal prediction methods for recommendation 
 ## **Organizers**
 
 * Hasta Vanchinathan, Amazon
+* Jonathan Grotts, Snap - main contact on the day of the workshop
 * Yingfei Wang, University of Washington
 * [Zeyu Zheng](mailto:zyzheng@berkeley.edu), UC Berkeley, Amazon - main contact
 
@@ -118,7 +119,7 @@ In addition, we developed novel conformal prediction methods for recommendation 
 * [Jeong-Yoon Lee](mailto:jeong@uber.com), Uber - main contact
 * Jing Pan, Snap
 * Paul Lo, Snap
-* [Roland Stevenson](mailto: rolandrmgservices@gmail.com), Consultant - main contact for the day of the workshop
+* [Roland Stevenson](mailto: rolandrmgservices@gmail.com), Consultant - main contact on the day of the workshop
 * Totte Harinen, AirBnB
 * Yifeng Wu, Uber
 * Zhenyu Zhao, Roblox
