@@ -103,7 +103,7 @@ In addition, we developed novel conformal prediction methods for recommendation 
 ### For Poster Presentation
 9. Shipping Speed Elasticity Estimation Using Causal Inference Machine Learning Techniques; Aparupa Das Gupta*, Ajinkya More, Weijie Yuan, Ajay Kumar (Walmart); [Paper](https://drive.google.com/file/d/1aU2eZ9w1rK_g_N__QgjL47_opCrvyrQa/view?usp=drive_link)
 10. Understanding guest demand and optimizing two-sided marketplaces: insights from Airbnb; Yufei Wu*, Daniel Schmierer (Airbnb); [Paper](https://drive.google.com/file/d/12oAZAeRymbKyI2LXrEhX5Y1eGnrULzI0/view?usp=drive_link)
-11. Using LLMs for Explaining Sets of Counterfactual Examples to Final Users; Arturo Fredes*, Jordi Vitria (Universitat de Barcelona); [Paper](https://drive.google.com/file/d/16WVnL5M02dP2AQwPYcHsEjoYYvil9R_l/view?usp=drive_link)
+11. Using LLMs for Explaining Sets of Counterfactual Examples to Final Users; Arturo Fredes*, Jordi Vitria (Universitat de Barcelona); [Paper](https://drive.google.com/file/d/16WVnL5M02dP2AQwPYcHsEjoYYvil9R_l/view?usp=sharing)
 12. CHEF: Causal Effect Estimation under Hidden Confounding Using an End-to-End Framework with Data Fusion; Chuan Zhou (Peking University)*, Yaxuan Li (Harbin Institute of Technology), Chunyuan Zheng (UCSD), Haiteng Zhang (University of Chinese Academic of Sciences), Haoxuan Li (Peking University), Mingming Gong (University of Melbourne)
 
 ## **Organizers**
