@@ -104,7 +104,7 @@ In addition, we developed novel conformal prediction methods for recommendation 
 9. Shipping Speed Elasticity Estimation Using Causal Inference Machine Learning Techniques; Aparupa Das Gupta*, Ajinkya More, Weijie Yuan, Ajay Kumar (Walmart); [Paper](https://drive.google.com/file/d/1pmid9AFwQgDQhuDm9eWQTVH1ESubeKBF/view?usp=sharing), [Poster](https://drive.google.com/file/d/1tzf_R8ypuqtvvje6w5DhMmLOy7vGZ-8D/view?usp=sharing)
 10. Understanding guest demand and optimizing two-sided marketplaces: insights from Airbnb; Yufei Wu*, Daniel Schmierer (Airbnb); [Paper](https://drive.google.com/file/d/1RoCxTepsAO95t8rjVLMXzuyMvf68HYXg/view?usp=drive_link)
 11. Using LLMs for Explaining Sets of Counterfactual Examples to Final Users; Arturo Fredes*, Jordi Vitria (Universitat de Barcelona); [Paper](https://drive.google.com/file/d/1nxoacShPhtgtXxg_Yx7ALVXiUJHd7M21/view?usp=sharing)
-12. CHEF: Causal Effect Estimation under Hidden Confounding Using an End-to-End Framework with Data Fusion; Chuan Zhou (Peking University)*, Yaxuan Li (Harbin Institute of Technology), Chunyuan Zheng (UCSD), Haiteng Zhang (University of Chinese Academic of Sciences), Haoxuan Li (Peking University), Mingming Gong (University of Melbourne)
+12. A Partial Initialization Strategy to Mitigate the Overfitting Problem in CATE Estimation with Hidden Confounding; Chuan Zhou (Peking University & MBZUAI)*, Yaxuan Li (Peking University)*, Chunyuan Zheng (Peking University & MBZUAI), Haiteng Zhang (Chinese Academy of Sciences & MBZUAI), Haoxuan Li (Peking University & MBZUAI), Mingming Gong (The University of Melbourne & MBZUAI); [Paper](https://drive.google.com/file/d/1ePwlz3nKdoDxYP9NY7SFJr35vx1K7b7g/view?usp=sharing)
 
 ## **Organizers**
 
